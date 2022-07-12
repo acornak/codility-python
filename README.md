@@ -1,4 +1,4 @@
-# My solutions to some of the Codility tasks in Python
+# My solutions to some of the Codility tasks in Python
 
 - most of them are 100%, but not all
 
